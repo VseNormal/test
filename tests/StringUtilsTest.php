@@ -7,7 +7,7 @@ if (StringUtils\capitalize('hello') !== 'Hello') {
 }
 
 if (StringUtils\capitalize('') !== '') {
-    throw new \Exception('Функция работает неверно!!!!');
+    throw new \Exception('Функция работает неверно!!!!!');
 }
 
 echo 'Все тесты пройдены!!';
